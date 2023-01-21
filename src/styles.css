@@ -1,0 +1,14 @@
+.App h1 {
+  font-weight: 700;
+}
+.App {
+  width: 900px;
+  margin: auto;
+  /* border: 1px solid black; */
+}
+.textmargin {
+  margin-top: -10px;
+}
+.icon {
+  margin-right: 20px;
+}
