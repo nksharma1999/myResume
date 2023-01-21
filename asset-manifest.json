@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nksharma1999/myResume/static/css/main.09ef459f.css",
+    "main.js": "/nksharma1999/myResume/static/js/main.c0d68a2f.js",
+    "index.html": "/nksharma1999/myResume/index.html",
+    "main.09ef459f.css.map": "/nksharma1999/myResume/static/css/main.09ef459f.css.map",
+    "main.c0d68a2f.js.map": "/nksharma1999/myResume/static/js/main.c0d68a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ef459f.css",
+    "static/js/main.c0d68a2f.js"
+  ]
+}
