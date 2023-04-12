@@ -1,9 +1,11 @@
+/** @format */
+
 import "./styles.css";
 import LeftC from "./leftC";
 import RightC from "./right";
 export default function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <h1>Nandkishor Sharma</h1>
       <h5>Full Stack Web Developer</h5>
       <p>
@@ -11,9 +13,9 @@ export default function App() {
         objectives under satisfying job contact, hence enhancing my skills and
         knowledge.
       </p>
-      <div className="row">
+      <div className='row'>
         <LeftC />
-        <div className="col-1"></div>
+        <div className='col-1'></div>
         <RightC />
       </div>
     </div>
